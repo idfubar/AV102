@@ -7,7 +7,7 @@ normal management tools or at least these days, with everything presenting a
 web interface,
 in order to make them easy to use, then the things that you would use to manage
 a distributed team given the tools that are available online
-are very similar to the ones that you would use for a centralized or co-located team
+are very similar to the ones that you would use for a centralized or co-located team.
 The particular ones that are bouncing around in the front of my cortex
 at the moment are many things that you will already be familiar with
 such as a wikis, Google Docs;
@@ -29,10 +29,10 @@ with those kind of things is you know, again whether you're a single team in a
 single office,
 or spread out all over the world, just visibility
 is a terrible problem so and you know people "Oh it's in the
-Word document", "where kind of is that?" If you've got - and everybody's got browsers running all the
+Word document", "Where kind of is that?" If you've got - and everybody's got browsers running all the
 time -
 if you've got a Wiki ... like we've got an example here GitHub Wiki
-you know it's as simple as saying "oh right, yes I need ...
+you know it's as simple as saying "Oh right, yes I need ...
 some information on let's kind of go, here AgileVentures, LocalSupport"
 and I go to my LocalSupport Wiki
 there and I've got some information and ... basically
