@@ -15,8 +15,8 @@ say you're launching a new marketing plan, you're
 starting a new business.
 The process of problems coming up and then communicating effectively to solve them ...
 It's a really common pattern that needs to be managed whether you are in a centralized
-or a distributed setting
-So I think the same ideas will serve you well for being TAs, for being involved in
+or a distributed setting.
+So I think the same ideas will serve you well for being TA's, for being involved in
 AgileVentures; for any kind of software related team activity.
 Or indeed may I be so bold as to say *any* team activity;
 but so what have we got happening this week?
@@ -54,7 +54,7 @@ This edX peer review technology is somewhat experimental and so apologies in adv
 we encounter.
 However we really appreciate you helping us test this as we are planning to roll out this
 kind of assignment in the MOOC.
-The plan is to have students reviewing each others' pairing sessions on a large scale.
+The plan is to have students reviewing each other's pairing sessions on a large scale.
 We're making pair programming a requirement for participation in the official 169 part
 3 project class which will be released later this year.
 In the project class, students will be working in teams with a real non-profit or charity
