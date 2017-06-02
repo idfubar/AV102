@@ -48,7 +48,7 @@ pair programming.
 I think there is probably more material there, than you could reasonably cover in one week.
 Don't feel that you have to cover all of it.
 I think if at a minimum you just watch the main lectures from me, and then you can dip
-in to the other ones as approprate.
+in to the other ones as appropriate.
 Next we'll move on to GitHub pong and the mechanics of how to do that.
 Then finally we'll talk about GitHub for teams and this is super useful stuff, that is pull
 requests, merging, cherry-picking and so on.
@@ -62,7 +62,7 @@ being.
 I must say that any deficiency in the materials and recordings is down to me personally.
 I'm hugely indebted to the full AgileVentures team who've worked behind the scenes to get
 all these slides and quizzes and everything sorted.
-Like open source software I think this course is incremently moving in the right direction.
+Like open source software I think this course is incrementally moving in the right direction.
 I'm hoping that what comes through is the wonderful time we're having in AgileVentures
 collaborating online; managing our distributed team.
 We very much hope that our experiences can help you in your journey.
