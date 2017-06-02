@@ -16,7 +16,7 @@ So basically, whether you're studying online or you're taking part in a distribu
 the problems are often similar.
 You're faced with some challenge, some technology problem, or maybe it's a team organisation
 problem, that you need advice on, and so these forums can help you solve your problem.
-The forum, might have been created specifically for your group by your team, or have been
+The forum itself might have been created specifically for your group by your team, or have been
 created as a resource for students, or just been created by other people related to a
 particular technology.
 Either way, online forums are a great resource to help you solve all sorts of problems, as
@@ -77,7 +77,7 @@ In principle, if you are refreshing the page fast enough in an asynchronous foru
 edX or StackOverflow, then you can get an experience almost like a real-time chat, but that's rare.
 Real time "synchronous" chats like Gitter or Slack
 increase the chances that a real-time chat conversation will take place.
-I'm sure some people are thinking: "but, why do we have all these different alternatives?
+I'm sure some people are thinking: "But, why do we have all these different alternatives?
 Why are we having both the embedded gitter chat and the
 edX forum?""
 My answer is that they are different tools that have different values at different times.
@@ -96,10 +96,10 @@ I'm getting ahead of myself here though ... let's list the different pros and co
 systems.
 So returning to this asynchronous/synchronous distinction;
 "Asynchronous" implies that people are going to be looking at the forum at different times;
-the forum it not designed specifically for users being online together, which means posts
+the forum is not designed specifically for users being online together, which means posts
 to the forum are coming in one after another with short breaks, in a "serial" fashion.
-"Synchronous" imples "real time", that the various parties are at the computer interacting
-in real time, contributing in "Parallel".
+"Synchronous" implies "real time", that the various parties are at the computer interacting
+in real-time, contributing in "parallel".
 Although, what I would point out for things like Slack and Gitter is that one can slide
 backwards and forwards between a synchronous and an asynchronous conversation.
 Particularly if you've got a relatively inactive chat channel, you can leave a post in there
@@ -109,7 +109,7 @@ Then suddenly you're online together and it becomes synchronous.
 Anyway I think the ability to slide backwards and forwards between those two states is potentially
 a very valuable aspect of a text chat.
 Asynchronous systems tend to have better persistence, with many chat systems having a limited history
-or visibility as regards previous chat messsages.
+or visibility as regards previous chat messages.
 Asynchronous forums likely encourage a broader participation, with it being easier to branch
 off into a different thread.
 Whereas it's more complicated to refer back to older chats in synchronous forums, in some
@@ -131,7 +131,7 @@ If you have eight questions, that's great, write them all down somewhere safe, a
 post just the most important one.
 Then ask the other questions as the opportunities arise, rather than posting a whole wall of
 text into the chat.
-Some people might say: "well you know, I've got a lot to say. I need to be able to say
+Some people might say: "Well you know, I've got a lot to say. I need to be able to say
 it all."
 Well ultimately it's your choice, but my recommendation is that you think carefully about the impact
 your posts have on other people.
@@ -145,7 +145,7 @@ If the complex thought you are having really requires saying a lot of things the
 also a good time to consider posting to an asynchronous forum where you're putting less
 pressure on others to read what you say.
 If you're worried that you haven't received a reply on your asynchronous forum submission,
-then post a link to it into the real time chat.
+then post a link to it into the real-time chat.
 I think that's a very powerful combination. Bringing up an issue in text chat, but adding
 a link to more details for those who are interested.
 If it's really really long, even for a forum post, then how about writing a blog post?
@@ -169,13 +169,13 @@ respond individually.
 Also, if you're DMing me then you have to wait until I am free to answer your question.
 If you ask in a group chat or forum, then potentially you get an answer faster, because
 someone else can respond before me.
-Please don't ever ask "can I ask you a question?"
+Please don't ever ask "Can I ask you a question?"
 That just guarantees that it will take longer to get your answer.
-I will always say, "yes, you can ask me a question."
+I will always say, "Yes, you can ask me a question."
 However I do really prefer that if it's not a life and death personal matter that you
 ask in a group channel or forum because 1. you'll get an answer faster, and 2. others
 may benefit from seeing the conversation.
-I get the sense that many people are embarressed to ask questions in group channels.
+I get the sense that many people are embarrassed to ask questions in group channels.
 They don't want to bother other people, or they don't want to look like they don't know
 something.
 I strongly believe that one of the most important things in learning is to be able to admit
@@ -203,7 +203,7 @@ it is not text searchable in the same way as chats and posts.
 But sometimes an interactive video where a person is saying: "Oh I'm clicking here and
 I'm doing this" ...
 And then we're like "Oh of course, the thing we've been talking about for the last few
-hours" in a real time chat or asynchronous forum suddenly becomes transparent.
+hours" in a real-time chat or asynchronous forum suddenly becomes transparent.
 So in summary all of these different tools have a valuable role to play, and the trick
 is to learn when to use which.
 Where we want to be is a place in which we are choosing the best tool for the job, i.e.
