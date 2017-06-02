@@ -70,7 +70,7 @@ then you can just do "git pull
 feature branch" there and at A insert the name of your
 partner
 and you then get an exact copy of their code
-and ideally you immediately - you run the test just to double check that
+and ideally you immediately - you run the test just to double-check that
 there isn't anything
 hanging around but then you write the simplest code that will make the test pass;
 refactor the code; next failing test; commit some pushes
