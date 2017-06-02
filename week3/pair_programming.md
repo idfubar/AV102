@@ -72,8 +72,8 @@ libraries and gems and javascript things and what have you
 is all being shared around;
 that's extraordinarily valuable really from the point of view
 of a project manager ... and the other thing, I mean, this is ...
-I think, pretty much everybody wants to pair with somebody who is
-you know at the same level them, or maybe slightly above in terms of what they are thinking about
+I think, pretty much everybody wants to pair with somebody who is -
+you know - at the same level as them, or maybe slightly above in terms of what they are thinking about
 levels; whether it's level on JavaScript or level on
 this that and the other. Personally I enjoy pairing with people of all different
 levels
@@ -107,7 +107,7 @@ there is an increase in getting things working
 but that's made up for because you just get ...
 higher quality code ... that down the line there's less
 ... bugs to fix; there's less issues to address; actually it
-reminds me something I was going to mention ... I mean you could say" "right, about this
+reminds me something I was going to mention ... I mean you could say, "Right, about this
 truck number,
 ah yes, well if the person had written
 fantastic documentation that explained exactly what they were doing
@@ -141,7 +141,7 @@ depending upon whether it's actually a reflection of what the system is doing!
 Anyway but so I mean ...
 the code you get out ... I think you just basically get better quality software
 as a result of doing pair programming. The code is continuously reviewed by more
-than once set of eyes
+than one set of eyes
 ... mistakes get caught earlier and ultimately your
 confidence in the code is higher ... I think
 there's ... I mean I have this argument that goes backwards and forwards
@@ -160,7 +160,7 @@ if you're doing it pairing. I also personally, I would really not
 want to be a project manager
 on a project where pairing was not sort of rigorously
 enforced. Although ... there's continuous review -
-you can be = as I think we'll talk about in the next section ... there's pull
+you can be, as I think we'll talk about in the next section ... there's pull
 requests and there's reviewing code after the fact which I think
 also needs to happen; but I would much rather, as a project manager
 reviewing code coming/being submitted to the projects,
@@ -170,7 +170,7 @@ lend my set of eyeballs ... to the finally submitted pull request but more on th
 ... in the next section ... so
 again I mean the pair programming it's not this side by side you know one person
 just half falling asleep ... there's this idea the driver and navigator
-... and the driver will do that the typing and the navigator
+... and the driver will do - the typing and the navigator
 ... will be constantly reviewing the code and
 thinking about the longer-term strategy and so on and talking
 all the time. It's also important to switch roles ...
@@ -199,7 +199,7 @@ understanding
 you know algorithms and logic and so on
 and we're not talking about emotions a lot are we? with software. Actually in my
 Software Engineering classes
-I say that really programming is an emotional experience, even if you're doing by
+I say that - really - programming is an emotional experience, even if you're doing it by
 yourself
 how you cope emotionally when you get stuck is
 ... I think that's ... how you deal with that; because it's a
@@ -265,7 +265,7 @@ side by side ... I would describe the ping pong thing is your ping ponging
 backwards and forwards and we'll
 look at more details of how that might work in a minute; on a problem
 where both parties haven't seen it previously, or at least not recently.
-So and I actually I put that in to distinguish it from the situation where
+So - and I actually I put that in to distinguish it from the situation where
 you know you might have ... you already know the solution and you're working with
 somebody who doesn't know the solution to the problem
 ... I think ... true pairing really is ...
@@ -281,7 +281,7 @@ and we're doing this and its ... you're both
 ... you're not so enormously different in the terms of your skill
 level or experience with
 the technology, which let's say it's Rails or JavaScript or Jasmine or whatever it happens to be ...
-and you're working on it together and you basically taking turns to write code
+and you're working on it together and you're basically taking turns to write code
 backwards and forwards or taking turns on whatever the activity is. That's
 really ping pong. It's really tight collaboration ...
 you might have ... we can contrast that with side by side so
@@ -336,7 +336,7 @@ have
 ... Rails; so it's like
 ... this idea that people are kinda on this continuous scale
 from super ninja programmer down to like programming novice
-and that there stacked up and it's like oh yes. The thing is that there's so many different
+and that they're stacked up and it's like oh yes. The thing is that there's so many different
 things that you can be expert in, in terms of the technology field ... in the
 world, in life;
 so everybody's got different levels in all of those ... they've got a different sort of profile in
@@ -356,17 +356,17 @@ solution; but rather than
 just saying "do this and then do this and then do this" maybe with a little bit of explanation
 that they actually scaffold the novice
 in their attempts to "master the problem" hmm that's confusing;
-let's have it "solve" in their attempts to solve the problem this ... so
-rather than giving them answers you say: " what do you think you might do in
+let's have it "solve" - in their attempts to solve the problem this ... so
+rather than giving them answers you say: "What do you think you might do in
 this situation?"
-and "well, you know there's a couple of options here; there's this one and this one.
+and "Well, you know there's a couple of options here; there's this one and this one.
 Which one sounds
 good to you?" and this is I think the sort of true skill
 of the ... is it the teaching assistant? Shall we call it the coach? The guide? The
 instructor? What have you;
 is kinda trying to manage the ...
 stress load of the person that they're working
-... with to say "you know okay I'm gonna give you this piece of information
+with - to say "you know okay I'm gonna give you this piece of information
 here because
 ... I think that's you know just
 you can just remember that later" but if there's some sort of key concept with
@@ -385,7 +385,7 @@ and there was a guy in Columbia showing me how do you use MeteorJS which I don't
 much and I was ...
 I think he was less familiar with git and GitHub than I was and I was ...
 we were kind of like ...
-we were doing scaffolding almost doing master robot because
+we were doing scaffolding almost doing master/robot because
 we were both so relatively inexperienced in each other's domain
 ... but we were still getting something out of it ... I mean I think the important thing is
 is that ... I'm not trying to say
@@ -406,18 +406,18 @@ interactive terminal and you're exploring and it's not really this sort of focus
 ping pong, but I would tend to call that task focused chat
 and it can be very useful and I think to the extent that we have
 words to describe all these different sorts of behaviours
-that's handy; like going forwards for the the MOOC course
+that's handy; like going forwards for the - the MOOC course
 then potentially you'll be sort of pairing or scaffolding pairing
 ... which is actually another topic I guess ... rather than scaffolding the individual, actually scaffolding
 ... a pair to help them do the pairing ...
-... I'm hoping that we'll be able to talk about these sort of terms and we'll say "oh
+... I'm hoping that we'll be able to talk about these sort of terms and we'll say "Oh
 you know
 I got a couple of students set up with pairing but they seem to go into just doing a sort
-of master robot thing" or
-"oh actually - you know - there's this guy - you know - from wherever
+of master/robot thing" or
+"Oh actually - you know - there's this guy - you know - from wherever
 was doing some really great scaffolding perhaps we should promote him to being a
 TA
-on the course?" and so on and or "there's this other group
+on the course?" and so on and or "There's this other group
 they just ... there was five of them and they just seemed to be doing side by side programming with
 not much communication"
 So having a terminology to explain
@@ -461,7 +461,7 @@ watching it (fail) we always want our tests to fail of course because otherwise 
 I'm gonna do some refactoring. This is the driver navigator roles
 swapping here from A to B. So A has initially been typing there to write that
 first failing test. B has then
-written some code that's made that go green ... B's the refactored it
+written some code that's made that go green ... B's then refactored it
 ... discussing that with A
 quite likely and then B has written a test
 of the next step as it were. Right, the next test to watch something fail
@@ -519,11 +519,11 @@ change the message and then we've got this other one called "One Undermanship"
 Once you've got that down you're kind of saying to each other "Ooh you know
 this seems to be taking rather a long time" ... you might be working on this
 and you've
-planned to do make it work and so you say: "this is taking rather a long time you know shall we
+planned to - to make it work and so you say: "This is taking rather a long time you know shall we
 switch to
 you know I've got an interesting error message here; do you want to try and change the
 message?" And person
-B will say: "oh yeah no okay that's good lets do that" and so
+B will say: "Oh yeah no okay that's good lets do that" and so
 depending upon how long things are taking you can switch backwards and forwards between
 "change the message" and "make it work" and so on and then there's also "One 
 Undermanship" which is kind of
