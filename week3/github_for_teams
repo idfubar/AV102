@@ -68,9 +68,9 @@ this page it'll actually ... or usually ... I guess ...
 if you're doing ... that's funny, let's go over to develop and have a look. Recently in GitHub
 I believe it often has a pointer of what ... here's a recent commit ...
 has that actually pushed up properly? Let's go and have a look, yeah "git push origin develop"
-AutoGrader AgileVentures yeah that's seem right place, yes so we've gone to develop here
+AutoGrader AgileVentures yeah - We're in the right place? - yes - so we've gone to develop here
 ... yeah, sometimes I get a little
-thing that pops up here saying "oh you've done a
+thing that pops up here saying "Oh you've done a
 submission recently would you like to be
 pushing that here there and everywhere"; I think that's maybe only when you're on a fork
 but I can come in here to a pull request here
@@ -80,9 +80,9 @@ and so in this case I might just say I want ... and I always find this confusing
 it's like ... I want to get the develop
 and then the base here is the master so here I could create a pull
 request
-and this would be me saying right this change that I've made to the README file
+and this would be me saying "Right this change that I've made to the README file
 I want to have that go into the
-the master branch ... but potentially if I was on somewhere else, I might say
+the master branch" ... but potentially if I was on somewhere else, I might say
 I want to compare across forks and I could do a pull request over to Paul's
 thing here so for example; so base fork, aah it's confused there ... so if we take that's Paul's
 repo and I could for example here this would be me saying right
@@ -155,7 +155,7 @@ secure key and so on ... I've looked through this
 in the past and think I've identified that I'm pretty happy with it ... and it's always
 fantastic to see ...
 ... this is a lovely size ... three files changed
-one of them is a cucumber feature, another one is a
+one of them is a Cucumber feature, another one is a
 spec and then there we go and maybe a little bit of application code
 actually this project is a lot about updating the continuous integration
 so this is the kind of thing, the kind of size
@@ -186,7 +186,7 @@ there was no
 need to - to break it up ... probably the best example I think that I
 had of a pull request ... if we just go to a different project this
 was earlier on on LocalSupport ...
-I guess rather than going to another autograders one and doing
+I guess rather than going to another Autograders one and doing
 ... let's go and see here. If we go into LocalSupport
 there was some people who got involved and did
 some pull requests on LocalSupport and
@@ -242,7 +242,7 @@ just this commit out of these four or whatever I fancied
 and then playing with it until I got it to work on so and so forth. So
 ... and then you know if Paul himself wasn't available to update the
 pull request
-then I might well just end up cherry picking a few things
+then I might well just end up cherry-picking a few things
 and then closing it and maybe opening a new pull request if
 I'm not the project manager but there we go so
 ... I would say ...
