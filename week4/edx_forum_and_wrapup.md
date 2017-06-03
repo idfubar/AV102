@@ -25,7 +25,7 @@ people around the world. We've had all different kind of spreadsheets for people
 this is what I'm going to do, this is when I'm going to do it.
 I think it's ... just it's all been a bit higgledy-piggledy ... what I'm going to recommend and I think
 is the best is letting people know that in the Slack that you're in the
-process of checking. We'll also have a wiki, in the course, you'll see there'll be weekly assignments coming up
+process of checking. We'll also have a Wiki, in the course, you'll see there'll be weekly assignments coming up
 well not assignments, there'll be weekly, in this same AV102 you'll be able to post the activities that you've
 done ... more on that in a minute ... but yeah what I would really say and I'll turn Slack on again ... what I would say is the key
 thing to do, is if you are going to come on the sites and you're gonna have a look through and
@@ -57,7 +57,7 @@ you'll come on and you'll say right I'm going to do an hour now and you'll look 
 are monitoring the slack here and you can check here what's happening with
 "Ah, ok" you can see that ... "Ah, oh at the moment actually there's already
 three guys checking the forum, we don't need to." ... this is a nice way to
-coordinate. We'll also have ... there's a wiki as well and we'll set it up for people to
+coordinate. We'll also have ... there's a Wiki as well and we'll set it up for people to
 like ... gosh, that's looking a bit ugly isn't it ... but we'll set ... I guess this is yeah ... anyway.
 We'll add some space in there for people to say this is my preferred time and so on and we'll just
 see how to coordinate. It's still experimental, is there a better
