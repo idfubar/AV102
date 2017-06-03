@@ -29,7 +29,7 @@ and thats
 culturally how they are? I guess I'm not a big fan of anger; I hate people
 being angry at me; I don't want to be angry at people;
 so I'm a big fan of the
-be civil and polite and I think often ...
+"Be civil and polite" and I think often ...
 I don't know I think the problem is when people start getting
 angry it raises the temperature; it gets
 difficult to think.
@@ -115,7 +115,7 @@ unrelated
 but let me ask" ... that is going to be difficult for other people to find, like the
 title
 of this
-topic is not particularly relevant anymore so we might want to say: "hey oh that's
+topic is not particularly relevant anymore so we might want to say: "Hey oh that's
 a
 very important question, can we move that over into a
 different
@@ -129,7 +129,7 @@ when to stop just chatting ... I guess if people ...
 if people are just busy arguing about something and they're not listening to each
 other and they're just being unpleasant
 and that creates a negative vibe then you want to kind of
-say: "hey guys let's wrap this up or should we you know what should we do?
+say: "Hey guys let's wrap this up or should we you know what should we do?
 Let's work out a way to finish it up." Yeah so
 you want to get everyone to be civil.
 If there are people duplicating threads ... I mean they'll be
@@ -151,7 +151,7 @@ station keeping ... when it comes to assisting learners and this might
 be
 another member of your distributed team who
 is
-... got stock ... might be a
+... got stuck ... might be a
 student that you're helping in a MOOC ... I mean
 I guess for the ...
 to the extent that it's a student who's really focusing their time on
@@ -167,7 +167,7 @@ you might ... with your distributed team you just want
 to tell the person that this is
 the solution
 ... I guess that's maybe the key difference between the
-people who are coming and saying "right, I really want to
+people who are coming and saying "Right, I really want to
 learn here", although
 that has a place as well in distributed teams in that ...
 what you kind of want to do is not have a situation where
@@ -175,7 +175,7 @@ other team members are just dependent on you for answering questions all the tim
 ... what you wanna do is try and help all of
 your team members
 build independence ... generally
-one of the reasons that we're trying train as many
+one of the reasons that we're trying to train as many
 TAs as possible is to provide timely answers in the forums ... if
 you can
 get in there and give an answer - fantastic! ... and that's
@@ -224,9 +224,9 @@ pulled together from the ... our experiences in
 in the MOOC
 so far which I think
 also refers to managing communication with distributed teams;
-thats sometimes there's going to be language barriers; so
-sometimes you'll need to say, right, I wanna rephrase it
-I'm gonna try and use examples ... there's courseware issues
+that's - sometimes there's going to be language barriers; so
+sometimes you'll need to say, "Right, I wanna rephrase it
+I'm gonna try and use examples" ... there's courseware issues
 ... so there's gonna be for any given
 assignment there's gonna be common problems
 ... I'll try and give your a prep on those week by week as we go through
@@ -235,11 +235,11 @@ homework assignments in advance that would be
 very helpful ...
 sometimes students will come in saying ... I mean as you can imagine this is
 customers coming into a distributed
-team and saying: "look, well we've tried to install your software on this other
+team and saying: "Look, well we've tried to install your software on this other
 unsupported OS or IDE" and the situation there is to be polite and say
-"yes we're focusing on supporting
-these platforms with the VM and so on" and so
-sure if you can help them solve that issue ... but prioritise people
+"Yes we're focusing on supporting
+these platforms with the VM and so on" and so ...
+Sure, if you can help them solve that issue ... but prioritize people
 who are having issues with the courseware and recommend to people doing
 alternate stuff that they should use the courseware
 because that is trying to make our own ability to manage everybody's
@@ -247,11 +247,11 @@ issues ... manage them more effectively
 ... if you don't know the answer .. come and talk
 and we'll work it out ... this is one of the great
 opportunities - a student may be exploring some aspect of some
-issue that you hadn't got in to when you
+issue that you hadn't got into when you
 did the course previously so this is an opportunity for your own learning
 ... if the student's gone off there - out into the blue
 if they're off doing their "yak shaving activity" ...
-you wanna say: "you seem to be getting right off track and
+you wanna say: "You seem to be getting right off track and
 let's see if we can get you back to the right place"
 ... and then also there's ... as you're aware we have the auto graders which
 will grade
@@ -264,7 +264,7 @@ issues with the
 auto graders and sometimes the error messages they
 give are difficult to interpret
 that's something
-we're trying to fix but ... if it does seem that the auto graders are down
+we're trying to fix but ... if it does seem that the autograders are down
 then the key thing is to let me know as soon as possible and do that
 through
 Skype chat ... so
@@ -275,7 +275,7 @@ skipped or incomplete steps ... if they haven't mastered the directions and this
 the
 kind of situation sometimes where it can take a
 long time in chat to work out what's
-going on but if you're in a hangout
+going on but if you're in a Hangout
 and they show you oh well I did this and I did
 this and they can show you the history of their
 activity on the UNIX command line you can see oh yes you didn't do this
@@ -288,15 +288,15 @@ interpreting the exception error messages ... and actually you say ... I
 say this -
 I think this comes up in distributed teams all the time ... working with
 ... the client has done a spec and the developer working on
-the code says: "oh yes we could use this and we could use this" and
+the code says: "Oh yes we could use this and we could use this" and
 so this is the skills of the TA
 not so different from that of a project manager of
 a distributed team
 you need to be helping your developers focus on
-exactly the parts of the code they need to focusing on so ...
+exactly the parts of code they need to be focusing on so ...
 you're getting a real value for money, as it were, putting your time as a
 TA
-I think it really does ... I'm constantly. agonizing about: "oh no we're doing too many
+I think it really does ... I'm constantly. agonizing about: "Oh no we're doing too many
 things with this course we're teaching you about
 distributed teams, we're teaching you about being a TA
 I think there is a lot of overlap; but yeah so that's communicating effectively in online
